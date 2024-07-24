@@ -10,7 +10,7 @@ export const Bio = {
   description:
     "I believe that programming is like creation, where anything you imagine can be realized with neat and good coding lines. I'm very enthusiastic about being a part of this creative process. For me, every line of code is an opportunity to bring something new into existence. I love the challenge of solving problems and the satisfaction of seeing my ideas come to life through programming. ",
   github: "https://github.com/PRANAY-VARAKALA",
-  resume:"https://drive.google.com/file/d/1TJ17BkxiVmmSOZbu-F5iratd1iPbRHyg/view?usp=drivesdk",
+  resume:"https://drive.google.com/file/d/1e3pgpyJSOKP5FRvxswuWGiLKYwU65qz2/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/varakala-pranay-224ba91b9/",
   insta: "https://www.instagram.com/pranaygoudv?igsh=MXJpYm45ZHI0OHU3NQ==",
 };
